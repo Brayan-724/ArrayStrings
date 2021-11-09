@@ -1,0 +1,17 @@
+{
+  "name": "arrayStrings",
+  "version": "1.0.0",
+  "main": "lib/index.js",
+  "preferGlobal": true,
+  "bin": {
+    "arrayStrings": "bin/index.js"
+  },
+  "scripts": {
+    
+  },
+  "dependencies": {
+	  "terminal-essencial": "v1.0.0",
+	  "terminal": "v1.0.0"
+  },
+  "license": "ISC"
+}
